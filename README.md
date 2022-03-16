@@ -17,7 +17,7 @@ is equivalent to all the translated ones because of the PBC
 get_minimal_dec()
 ````
 
-For the augmentations we used rotations and flip on the Z axis
+For the augmentations we used rotations (x,y axis) and flip on the Z axis
  (to switch 1st and 3rd layer)
  
 ## Training
